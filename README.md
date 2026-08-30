@@ -5,7 +5,7 @@ Tenho experiência com back-end em PHP e atualmente estou estudando Python.
 
 ## 🚀 Tecnologias
 
-![Skills](https://skills.thijs.gg/icons?i=php,python,html,css)
+![Skills](https://skillicons.dev/icons?i=php,python,html,css)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ashley-beatriz-oliveira-silva-613793363))
 
