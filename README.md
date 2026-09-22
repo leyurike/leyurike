@@ -1,6 +1,6 @@
 # Olá, eu sou a Ashley! 👋
 
-**Futura desenvolvedora, aprendendo um pouco de tudo e evoluindo a cada projeto** 🚀
+**Futura desenvolvedora, aprendendo um pouco de tudo e evoluindo a cada projeto** 
 
 - 🎓 Cursando Desenvolvimento de Sistemas na Etec Getúlio Vargas
 - 💻 Experiência com back-end em PHP, e cursos concluídos em Java
