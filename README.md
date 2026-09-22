@@ -1,10 +1,11 @@
 # Olá, eu sou a Ashley! 👋
 
+**Futura desenvolvedora, aprendendo um pouco de tudo e evoluindo a cada projeto** 🚀
+
 - 🎓 Cursando Desenvolvimento de Sistemas na Etec Getúlio Vargas
 - 💻 Experiência com back-end em PHP, e cursos concluídos em Java
 - 🐍 Atualmente estudando Python
-- 🌎 Estudando inglês (nível 2A)
-- 🚀 Buscando minha primeira oportunidade na área de tecnologia
+- 🌎 Inglês em desenvolvimento
 
 ## 🚀 Tecnologias
 
