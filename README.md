@@ -1,8 +1,5 @@
 # Olá, eu sou a Ashley! 👋
 
-💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | Preparando-se para o mercado de tecnologia**
-
-## 🚀 Sobre mim
 🎓 Cursando Desenvolvimento de Sistemas na Etec Getúlio Vargas
 💻 Experiência com back-end em PHP, e cursos concluídos em Java
 🐍 Atualmente estudando Python
@@ -11,7 +8,7 @@
 
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leyurike&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leyurike&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=leyurike&show_icons=true&theme=tokyonight)
 
 ## 🚀 Tecnologias
 
