@@ -6,10 +6,6 @@
 - 🌎 Estudando inglês (nível 2A)
 - 🚀 Buscando minha primeira oportunidade na área de tecnologia
 
-
-## 📊 Estatísticas do GitHub
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leyurike&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=leyurike&show_icons=true&theme=tokyonight)
-
 ## 🚀 Tecnologias
 
 ![Skills](https://skillicons.dev/icons?i=php,python,html,css)
