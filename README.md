@@ -1,11 +1,22 @@
 # Olá, eu sou a Ashley! 👋
 
-Estudante de Desenvolvimento de Sistemas na Etec Getúlio Vargas.
-Tenho experiência com back-end em PHP e atualmente estou estudando Python.
+💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | Preparando-se para o mercado de tecnologia**
+
+ 🚀 Sobre mim
+🎓 Cursando Desenvolvimento de Sistemas na Etec Getúlio Vargas
+💻 Experiência com back-end em PHP, e cursos concluídos em Java
+🐍 Atualmente estudando Python
+🌎 Estudando inglês (nível 2A)
+🚀 Buscando minha primeira oportunidade na área de tecnologia
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leyurike&show_icons=true&theme=tokyonight)
 
 ## 🚀 Tecnologias
 
 ![Skills](https://skillicons.dev/icons?i=php,python,html,css)
+
+## 📩 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-beatriz-oliveira-silva-613793363)
 
